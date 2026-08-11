@@ -7,7 +7,7 @@ platforms — LLM agent systems (provider-agnostic, built on the Model Context
 Protocol), retrieval pipelines, and the DevOps that keeps them running in
 production — alongside large ecommerce and business platforms.
 
-🌐 **[remoteprogrammer.vercel.app](https://remoteprogrammer.vercel.app)** · [LinkedIn](https://www.linkedin.com/in/asif-ali-in) · asif@remoteprogrammer.in
+🌐 **[remoteprogrammer.vercel.app](https://remoteprogrammer.vercel.app)** · [LinkedIn](https://www.linkedin.com/in/asif-ali-in) · [Medium](https://www.medium.com/in/asif-ali-in) · asif@remoteprogrammer.in
 
 ## What I work on
 
